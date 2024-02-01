@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Kaan\\Downloads\\E-ticaret_uygulama-main\\E-ticaret_uygulama-main\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\asp.net proje_denemesi.bundle.scp.css",
+      "PackagePath": "staticwebassets\\asp.net proje_denemesi.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\Downloads\\E-ticaret_uygulama-main\\E-ticaret_uygulama-main\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\Downloads\\E-ticaret_uygulama-main\\E-ticaret_uygulama-main\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\Downloads\\E-ticaret_uygulama-main\\E-ticaret_uygulama-main\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\Downloads\\E-ticaret_uygulama-main\\E-ticaret_uygulama-main\\wwwroot\\resimler\\36-numara-kadin-ayakkabi.jpg",
+      "PackagePath": "staticwebassets\\resimler\\36-numara-kadin-ayakkabi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\Downloads\\E-ticaret_uygulama-main\\E-ticaret_uygulama-main\\wwwroot\\resimler\\44-numara-erkek-ayakkabi.jpg",
+      "PackagePath": "staticwebassets\\resimler\\44-numara-erkek-ayakkabi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\Downloads\\E-ticaret_uygulama-main\\E-ticaret_uygulama-main\\wwwroot\\resimler\\david-gilmour-gitar.jpg",
+      "PackagePath": "staticwebassets\\resimler\\david-gilmour-gitar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\Downloads\\E-ticaret_uygulama-main\\E-ticaret_uygulama-main\\wwwroot\\resimler\\dostoyevski.png",
+      "PackagePath": "staticwebassets\\resimler\\dostoyevski.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\Downloads\\E-ticaret_uygulama-main\\E-ticaret_uygulama-main\\wwwroot\\resimler\\eski-kilim.jpg",
+      "PackagePath": "staticwebassets\\resimler\\eski-kilim.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\Downloads\\E-ticaret_uygulama-main\\E-ticaret_uygulama-main\\wwwroot\\resimler\\kadin-elbise-kirmizi.jpg",
+      "PackagePath": "staticwebassets\\resimler\\kadin-elbise-kirmizi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\Downloads\\E-ticaret_uygulama-main\\E-ticaret_uygulama-main\\wwwroot\\resimler\\kasikci-elmasi.jpg",
+      "PackagePath": "staticwebassets\\resimler\\kasikci-elmasi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\Downloads\\E-ticaret_uygulama-main\\E-ticaret_uygulama-main\\wwwroot\\resimler\\koltuk-takimi.jpg",
+      "PackagePath": "staticwebassets\\resimler\\koltuk-takimi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\Downloads\\E-ticaret_uygulama-main\\E-ticaret_uygulama-main\\wwwroot\\resimler\\lacivert-gomlek.avif",
+      "PackagePath": "staticwebassets\\resimler\\lacivert-gomlek.avif"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\Downloads\\E-ticaret_uygulama-main\\E-ticaret_uygulama-main\\wwwroot\\resimler\\mavi-gomlek.jpg",
+      "PackagePath": "staticwebassets\\resimler\\mavi-gomlek.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\Downloads\\E-ticaret_uygulama-main\\E-ticaret_uygulama-main\\wwwroot\\resimler\\playstation-1.png",
+      "PackagePath": "staticwebassets\\resimler\\playstation-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\Downloads\\E-ticaret_uygulama-main\\E-ticaret_uygulama-main\\wwwroot\\resimler\\resim-yok.png",
+      "PackagePath": "staticwebassets\\resimler\\resim-yok.png"
+    },
+    {
+      "Id": "C:\\Users\\Kaan\\Downloads\\E-ticaret_uygulama-main\\E-ticaret_uygulama-main\\wwwroot\\resimler\\taki-seti.png",
+      "PackagePath": "staticwebassets\\resimler\\taki-seti.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.asp.net proje_denemesi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.asp.net proje_denemesi.props",
+      "PackagePath": "build\\asp.net proje_denemesi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.asp.net proje_denemesi.props",
+      "PackagePath": "buildMultiTargeting\\asp.net proje_denemesi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.asp.net proje_denemesi.props",
+      "PackagePath": "buildTransitive\\asp.net proje_denemesi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
